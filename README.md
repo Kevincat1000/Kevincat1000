@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kevincat1000
 - 👀 I’m interested in Math
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me kw30928@gmail.com
 
 <!---
